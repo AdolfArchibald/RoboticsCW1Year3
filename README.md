@@ -24,3 +24,5 @@ pip3.11 install matplotlib
 You can download the data source from the following link:
 
 https://drive.google.com/file/d/1n12Z8p-liKDrQuDnq5hKnwsPsF2ICC9A/view?usp=sharing
+
+Please make sure to unzip the file and place it into the root folder, at the same level as the code folder. NOT in the code folder.
