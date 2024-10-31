@@ -17,3 +17,10 @@ pip3.11 install tensorflow
 pip3.11 install tf-keras
 pip3.11 install pillow
 pip3.11 install matplotlib
+```
+
+# Data Source
+
+You can download the data source from the following link:
+
+https://drive.google.com/file/d/1n12Z8p-liKDrQuDnq5hKnwsPsF2ICC9A/view?usp=sharing
