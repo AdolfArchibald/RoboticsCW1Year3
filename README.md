@@ -49,6 +49,8 @@ Loads images from a directory, resizes them to a target size, normalizes the pix
 
 These steps ensure that the input data is in the right format for training and help improve the model's performance.
 
+<sub>Reference: Clarke, H. (2024) Mastering data preprocessing for AI: Elevating model performance, DevOps/SRE Recruitment Experts. Available at: https://www.harrisonclarke.com/blog/mastering-data-preprocessing-for-ai-elevating-model-performance#:~:text=Importance%20of%20Data%20Preprocessing,models%20to%20discern%20patterns%20effectively. (Accessed: 06 November 2024).</sub>
+
 ---
 
 ## Train / Test Split
@@ -79,6 +81,7 @@ Converts the input images and labels into a TensorFlow `Dataset`, shuffling the 
 
 This ensures that the model gets properly structured input data during training and evaluation.
 
+<sub>Reference: Creating custom loss functions in Keras/TensorFlow (2024) Saturn Cloud Blog. Available at: https://saturncloud.io/blog/creating-custom-loss-functions-in-kerastensorflow/ (Accessed: 06 November 2024).</sub>
 ---
 
 ## Building the Model
@@ -96,6 +99,7 @@ The **Building the Model** section defines the architecture of the neural networ
 
 The model architecture was chosen based on the **Uno Card Problem** being solved and involves several layers stacked together to capture increasingly complex features from the image data.
 
+<sub>Reference: Image classification  :   Tensorflow Core (no date) TensorFlow. Available at: https://www.tensorflow.org/tutorials/images/classification (Accessed: 06 November 2024).</sub>
 ---
 
 ## Defining, Compiling, and Training the Model
