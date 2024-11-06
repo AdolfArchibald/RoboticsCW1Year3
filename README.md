@@ -17,6 +17,9 @@ pip3.11 install tensorflow
 pip3.11 install tf-keras
 pip3.11 install pillow
 pip3.11 install matplotlib
+pip3.11 install opencv-python
+pip3.11 install scikit-learn
+pip3.11 install numpy
 ```
 
 # Data Source
