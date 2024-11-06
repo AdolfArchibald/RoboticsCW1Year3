@@ -84,8 +84,6 @@ The **Building the Model** section defines the architecture of the neural networ
 
 ## Model Architecture
 
-## Model Architecture
-
 - **Input Layer**: We have an input layer with shape `(300, 300, 3)` for 300x300 RGB images.
 - **Convolutional Layers**: We have 3 convolutional layers with 32, 64, and 128 filters of size `(3, 3)`, each followed by a max pooling layer with a pool size of `(2, 2)` to extract features and reduce spatial dimensions.
 - **Flatten Layer**: We flatten the output of the last convolutional layer into a 1D vector for the dense layers.
