@@ -146,3 +146,10 @@ The **GUI** section involves creating a user-friendly interface to interact with
 The GUI makes it easy for non-technical users to interact with the trained model and see results without needing to interact directly with the code.
 
 ---
+
+## Additional Rewferences we Used:
+
+- K, N. (no date) UNO_CARD_DETECTION, GitHub. Available at: https://github.com/Natnael-k/uno_card_detection (Accessed: 07 November 2024). 
+
+- Btknzn (no date) BTKNZN/UNO-card-game, GitHub. Available at: https://github.com/btknzn/Uno-Card-Game- (Accessed: 07 November 2024). 
+
